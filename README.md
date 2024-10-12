@@ -18,7 +18,6 @@ SREC QUESTIFY is a web-based application designed to generate question papers au
 - **CSS3 & Bootstrap:** For styling and responsive design.
 - **PHP:** For backend functionality and server-side scripting.
 - **MySQL:** For storing and managing the question bank.
-- **JavaScript:** For client-side interactivity.
 
 ## Installation
 
