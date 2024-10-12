@@ -53,3 +53,13 @@ You should now be able to interact with the SREC QUESTIFY application.
 ## Example Screenshots
 ![1](https://github.com/user-attachments/assets/7acce6f9-9cd8-4e89-868c-c8fcb5e77188)
 ![2](https://github.com/user-attachments/assets/107c5513-3180-4c86-9e62-be802c370236)
+
+## Contributing
+Contributions are welcome! If you have suggestions or issues, feel free to open a pull request or an issue on the GitHub repository.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+- XAMPP for providing an easy-to-use local server environment.
+- Bootstrap for styling and responsive design.
