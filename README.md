@@ -22,21 +22,21 @@ SREC QUESTIFY is a web-based application designed to generate question papers au
 
 ## Installation
 
-- 1. Set Up XAMPP [Download XAMPP](https://www.apachefriends.org/index.html) and install it on your machine.
-- 2. Start **Apache** and **MySQL** services from the XAMPP control panel.
-- 3. Clone this repository or download the project files.
+- Set Up XAMPP [Download XAMPP](https://www.apachefriends.org/index.html) and install it on your machine.
+- Start **Apache** and **MySQL** services from the XAMPP control panel.
+- Clone this repository or download the project files.
 ```bash
    git clone https://github.com/yourusername/srec-questify.git
   ``` 
-- 4. Copy the project folder into the htdocs directory of your XAMPP installation.
+- Copy the project folder into the htdocs directory of your XAMPP installation.
 ```bash
 C:/xampp/htdocs/srec-questify/
 ```
-- 5. Set Up the MySQL Database
+- Set Up the MySQL Database
 Open phpMyAdmin by navigating to `http://localhost/phpmyadmin/` in your browser.
 Create a new database called questify_db.
 
-- 6. Update Database Configuration
+- Update Database Configuration
 Update the database credentials if needed (default settings for XAMPP should work fine).
 ```bash
 <?php
@@ -46,8 +46,10 @@ $password = '';
 $dbname = 'questify_db';
 ?>
 ```
-- 7. Run the Application
+- Run the Application
 Open your browser and go to `http://localhost/SREC-QUESTIFY/GENERATOR/login_form.php`.
 You should now be able to interact with the SREC QUESTIFY application.
 
-![1654793768_1-ventura-bloom](https://github.com/user-attachments/assets/c33dcb17-18c0-41d6-b096-0cd8d76ce6a2)
+## Example Screenshots
+![1](https://github.com/user-attachments/assets/7acce6f9-9cd8-4e89-868c-c8fcb5e77188)
+![2](https://github.com/user-attachments/assets/107c5513-3180-4c86-9e62-be802c370236)
